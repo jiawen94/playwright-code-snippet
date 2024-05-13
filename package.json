@@ -1,0 +1,22 @@
+{
+  "name": "test-netone-playwright",
+  "version": "0.3.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.25"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "monocart-reporter": "^2.4.5",
+    "ssh2": "^1.15.0"
+  }
+}

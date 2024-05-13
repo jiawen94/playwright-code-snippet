@@ -1,0 +1,17 @@
+/node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+/playwright/
+/e2e/
+/.VScodeCounter/
+/.tests_removed/
+/package-lock.json
+/allure-results/
+.DS_Store
+/tests-examples/
+/blob-report/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
