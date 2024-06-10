@@ -11,12 +11,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.42.1",
+    "@playwright/test": "^1.44.1",
     "@types/node": "^20.11.25"
   },
   "dependencies": {
     "dotenv": "^16.4.5",
-    "monocart-reporter": "^2.4.5",
+    "monocart-reporter": "^2.4.8",
     "ssh2": "^1.15.0"
   }
 }
